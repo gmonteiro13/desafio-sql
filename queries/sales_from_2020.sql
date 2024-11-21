@@ -1,0 +1,1 @@
+SELECT contract_id, client_id FROM sales WHERE sale_date >= '2020-01-01';
