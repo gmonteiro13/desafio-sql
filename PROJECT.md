@@ -61,3 +61,6 @@ python utils/python_scripts/insert_data_into_table.py
 python create_plot.py
 ```
 Uma imagem será criada no diretório `images`.
+
+## Observações
+- O modelo de relacionamento com as categorias utilizadas em todos os campos do arquivo CSV está na pasta `images`, ou você pode acessá-la por [aqui](https://dbdiagram.io/d/sql-challenge-673e471ee9daa85aca28c324).
